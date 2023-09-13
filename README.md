@@ -32,9 +32,14 @@ THEN I am able to successfully create and delete reactions to thoughts and add a
 
 ## Install & Run the Application
 
+- Navigate to the develop folder using the command prompt
+- npm install (install all packages required)
+- npm run seed (seed the database with data)
+- node index (run the app server)
+
 ## Repository - Link
 
-GITHUB:
+GITHUB: https://github.com/csetiawan88/socialnetworkapi
 
 ## Contributing
 
@@ -44,7 +49,8 @@ csetiawan88 - https://github.com/csetiawan88/
 
 #### Social Network API
 
-![Social Network API](screenshot1.jpg)
+![Social Network API - Users Routes](screenshot1.jpg)
+![Social Network API - Thoughts Routes](screenshot2.jpg)
 
 ## Walkthrough Video
 
