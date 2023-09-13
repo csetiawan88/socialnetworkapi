@@ -61,7 +61,7 @@ Video Link:
 ## Technologies
 
 - [Express.js](https://expressjs.com/)
-- [mongoose](https://mongoosejs.com/)
+- [Mongoose](https://mongoosejs.com/)
 
 ## Questions
 
