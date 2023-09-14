@@ -24,6 +24,6 @@ app.use(routes);
 db.once("open", () => {
   // Start the API server and listen on the specified port
   app.listen(PORT, () => {
-    console.log(`API server running on port ${PORT}!`);
+    console.log(`Open Insomnia: http://localhost:${PORT}/`);
   });
 });
