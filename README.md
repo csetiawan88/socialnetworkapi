@@ -57,8 +57,10 @@ csetiawan88 - https://github.com/csetiawan88/
 Video created with Screencastify.
 
 Video Link:
-
 https://drive.google.com/file/d/1-1-2jnxERcrxd_63Y7_icCHHh5DwChw5/view
+
+Bonus Video Link:
+https://drive.google.com/file/d/1W2uLjMLGBLGN6OKs_PipUDJDNzMWbhJB/view
 
 ## Technologies
 
