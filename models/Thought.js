@@ -24,7 +24,7 @@ const reactionSchema = new Schema(
     reactionBody: {
       type: String,
       required: true,
-      maxlength: [250, "Text length exceeds 250"], // Limit the maximum text length
+      maxlength: [280, "Text length exceeds 280"], // Limit the maximum text length
     },
     username: {
       type: String,
@@ -49,7 +49,7 @@ const thoughtSchema = new Schema(
       type: String,
       required: [true, "Text required"], // Ensure text is required
       minlength: [1, "Text required"], // Set a minimum text length
-      maxlength: [250, "Text length (exceeds 250 characters"], // Set a maximum text length
+      maxlength: [280, "Text length (exceeds 280 characters"], // Set a maximum text length
     },
     createdAt: {
       type: Date,
